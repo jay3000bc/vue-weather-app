@@ -4,14 +4,14 @@
 
 ## Prerequisite
 
->> + Node.js and npm (For Windows user)
->> + NVM (For MAC & Linux User). For more details follows the link - https://github.com/nvm-sh/nvm
 >> + node version >= 14.16.1
 >> + vue js version 2.5.11
 >> + vue fusion chart version 3.2.0. For more details follow the link - https://www.fusioncharts.com/dev/getting-started/vue/your-first-chart-using-vuejs
 >> + tailwindcss using postcss version 7.0.39
 >> + Bootsrap version 5.0.2
-
+>> + Node.js and npm (For Windows user)
+>> + NVM (For MAC & Linux User). For more details follows the link - https://github.com/nvm-sh/nvm
+>> 
 ## Build Setup
 
 ``` bash
